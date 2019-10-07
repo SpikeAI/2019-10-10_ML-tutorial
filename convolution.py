@@ -66,7 +66,6 @@ def img_conv(fig, i, conv, titre, conv2=False) :
         
         a.set_xlabel(inp.shape[1], **arg1) ; a.set_ylabel(inp.shape[2], **arg1)
     
-    fig.tight_layout()
     return i3
 
 def Plot_img_conv(inputs) :
