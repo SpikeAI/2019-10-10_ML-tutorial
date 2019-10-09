@@ -1,4 +1,7 @@
 images/img.jpg
+images/MNIST/
+images/stl10_binary.tar.gz
+mnist_cnn.pt
 images/stl10_binary/
 # Byte-compiled / optimized / DLL files
 __pycache__/
