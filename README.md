@@ -76,7 +76,7 @@ The conference will end with speakers sharing their views on promising future di
 }
 ```
 
-* https://neuronline.sfn.org/Articles/Scientific-Research/2019/Machine-Learning-in-Neuroscience-Fundamentals-and-Possibilities?utm_campaign=Machine%20Learning%20Virtual%20Conference&utm_source=hs_email&utm_medium=email&utm_content=72802903&_hsenc=p2ANqtz-8xjgPEhVLi82VGJ6Yrl0-kXWsIZyT2giovlo-fqHBO1zBhvkZIBG6Z1WNfB9ZI7daIsU22wKDuVCjRPaHu9RYy7CKWSHntmwXtEKkTKO0iDfZOKQE&_hsmi=72824345
+* https://neuronline.sfn.org/Articles/Scientific-Research/2019/Machine-Learning-in-Neuroscience-Fundamentals-and-Possibilities?utm_campaign=Machine%20Learning%20Virtual%20Conference
 
 
 ## related events
@@ -97,30 +97,32 @@ Organizers
 * Edda (Floh) Thiels is an adjunct associate professor of neurobiology at the University of Pittsburgh School of Medicine and a program director in the Directorate for Biological Sciences at the National Science Foundation. Thiels’ main research interests lie in how animals acquire information from the environment and use that information to guide their behavior. She received her undergraduate degree in psychology from the University of Toronto and her PhD in psychology from Indiana University.
 
 
-* Réunion du GdR ISIS
-** Titre : Théorie du deep learning
-** Dates : 2019-10-17
-** Lieu : Cnam Paris, amphithéâtre Paul Painlevé - 292, rue Saint Martin 75003 Paris.
+## Réunion du GdR ISIS
+* Titre : Théorie du deep learning
+* Dates : 2019-10-17
+* Lieu : Cnam Paris, amphithéâtre Paul Painlevé - 292, rue Saint Martin 75003 Paris.
 Annonce :
 Les réseaux de neurones profonds ont marqué l'entrée dans une nouvelle ère de l'intelligence artificielle, ponctuée par des succès opérationnels dans des domaines variés de la science des données comme la classification d'images, la reconnaissance vocale, ou le traitement de la langue naturelle. 
 En dépit de ces succès importants, les garanties théoriques associées à ces modèles décisionnels restent aujourd'hui toujours fragiles. L'objectif de cette journée est de faire un état des lieux sur la compréhension du fonctionnement des réseaux de neurones profonds, à travers un appel à contributions centré autour les thèmes (non exhaustifs) suivants :
-*** Expressivité des modèles
-*** Robustesse décisionnelle (incertitude, stabilité, attaques adversaires)
-*** Optimisation et problèmes non convexes
-*** Théorie de la généralisation
-*** Lien entre modèles physiques et architectures de réseaux de neurones
+
+** Expressivité des modèles
+** Robustesse décisionnelle (incertitude, stabilité, attaques adversaires)
+** Optimisation et problèmes non convexes
+** Théorie de la généralisation
+** Lien entre modèles physiques et architectures de réseaux de neurones
 
 Les outils utilisés pour aborder ces thématiques pourront venir de l'apprentissage statistique, mais des méthodes venant de disciplines connexes (décomposition tensorielles, analyse harmonique, méthodes géométriques / algébriques, physique statistique) sont fortement encouragées.
 Orateurs inivtés :
-** Rémi Gribonval, LIP ENS Lyon,
-** Edouard Oyallon, LIP6 Paris, CNRS
+* Rémi Gribonval, LIP ENS Lyon,
+* Edouard Oyallon, LIP6 Paris, CNRS
+
 Appel à contributions :
 Les personnes souhaitant présenter leurs travaux à cette journée sont invitées à envoyer, par e-mail, leur proposition (titre et résumé de 1 page maximum) aux organisateurs avant le 26 septembre 2019.
 Organisateurs :
-** Caroline Chaux-Moulin (valentin.emiya@lis-lab.fr), Université Aix-Marseille, I2M
-** Valentin Emiya (caroline.chaux@univ-amu.fr), Université Aix-Marseille, LIS
-** François Malgouyres (Francois.Malgouyres@math.univ-toulouse.fr), Institut de Mathématiques de Toulouse (IMT, CNRS UMR 5219)
-** Nicolas Thome (nicolas.thome@cnam.fr), Cnam Paris
-** Konstantin Usevich (konstantin.usevich@univ-lorraine.fr), Université de Lorraine, CRAN, Nancy
+* Caroline Chaux-Moulin (valentin.emiya@lis-lab.fr), Université Aix-Marseille, I2M
+* Valentin Emiya (caroline.chaux@univ-amu.fr), Université Aix-Marseille, LIS
+* François Malgouyres (Francois.Malgouyres@math.univ-toulouse.fr), Institut de Mathématiques de Toulouse (IMT, CNRS UMR 5219)
+* Nicolas Thome (nicolas.thome@cnam.fr), Cnam Paris
+* Konstantin Usevich (konstantin.usevich@univ-lorraine.fr), Université de Lorraine, CRAN, Nancy
 
 Lien : http://gdr-isis.fr/index.php?page=reunion&idreunion=405
