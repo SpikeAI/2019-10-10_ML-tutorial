@@ -1,5 +1,4 @@
-
-# A tutorial introducing Deep Learning for vision science
+# A tutorial introducing Deep Learning for vision science / Un tutoriel d'initiation au Deep Learning
 ## Chloé Pasturel, Laurent Perinet (INT)
 
 In this practical workshop, we propose to present the new challenges brought by deep learning and more generally by machine learning. The objective is to show in the form of simple practical exercises how these new tools allow 1) to categorize images 2) to learn such a model 3) to generate new images from an existing database.
@@ -49,7 +48,7 @@ The conference will end with speakers sharing their views on promising future di
 * Jürgen Schmidhuber: "Deep Learning in Neural Networks: An Overview," Neural Networks, volume 61, pp. 85-117, January 2015.
 
 
-* The term machine learning was coined by Arthur Samuel in 1959 to describe the subfield of computer science that involves the “programming of a digital computer to behave in a way which, if done by human beings or animals, would be described as involving the process of learning” (Samuel, 1959). 
+* The term machine learning was coined by Arthur Samuel in 1959 to describe the subfield of computer science that involves the “programming of a digital computer to behave in a way which, if done by human beings or animals, would be described as involving the process of learning” (Samuel, 1959).
 
 * However, the current models are designed with engineering goals and not to model brain computations.  it's a set-back from the computational neuroscience approach / highly successful / but adversarial examples
 
@@ -57,7 +56,7 @@ The conference will end with speakers sharing their views on promising future di
 
 
 
-* Whittington19 
+* Whittington19
 ```
 @article{Whittington19,
   title = {Theories of {{Error Back}}-{{Propagation}} in the {{Brain}}},
@@ -102,7 +101,7 @@ Organizers
 * Dates : 2019-10-17
 * Lieu : Cnam Paris, amphithéâtre Paul Painlevé - 292, rue Saint Martin 75003 Paris.
 Annonce :
-Les réseaux de neurones profonds ont marqué l'entrée dans une nouvelle ère de l'intelligence artificielle, ponctuée par des succès opérationnels dans des domaines variés de la science des données comme la classification d'images, la reconnaissance vocale, ou le traitement de la langue naturelle. 
+Les réseaux de neurones profonds ont marqué l'entrée dans une nouvelle ère de l'intelligence artificielle, ponctuée par des succès opérationnels dans des domaines variés de la science des données comme la classification d'images, la reconnaissance vocale, ou le traitement de la langue naturelle.
 En dépit de ces succès importants, les garanties théoriques associées à ces modèles décisionnels restent aujourd'hui toujours fragiles. L'objectif de cette journée est de faire un état des lieux sur la compréhension du fonctionnement des réseaux de neurones profonds, à travers un appel à contributions centré autour les thèmes (non exhaustifs) suivants :
 
 ** Expressivité des modèles
